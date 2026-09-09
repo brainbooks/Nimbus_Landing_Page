@@ -5,7 +5,7 @@ import { Icon } from "@iconify/react";
 import "./landing.css";
 
 const openCloud = () => {
-  window.location.assign("https://cloudnimbus.in");
+  window.location.assign("https://app.cloudnimbus.in");
 };
 
 // ══════════════════════════════════════════════════════
